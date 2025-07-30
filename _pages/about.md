@@ -11,6 +11,6 @@ Currently, I am working on a research project analyzing the extra-tidal regions 
 
 Earlier this summer, I was selected for the Undergraduate Summer Program in Mathematics at [IIIT-Delhi](https://math.iiitd.ac.in/)—a highly selective initiative that brought together students from across India for advanced coursework in algebra, analysis, topology, and geometry, alongside faculty-led research talks on topics ranging from spectral theory to random walks and mathematical logic.
 
-I’m also deeply interested in the broader role of science and mathematics in society, and have contributed op-eds to national newspapers reflecting on the interface of science, education, and public understanding.
+I’m also deeply interested in the broader role of science and mathematics in society, and have contributed opinion letters to national newspapers reflecting on the interface of science, education, and public understanding.
 
 You can find more about my work on the [Research](/research/) page, or view my [CV](/files/Abhinandan_CV.pdf).

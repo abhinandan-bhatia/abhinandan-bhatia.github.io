@@ -1,9 +1,9 @@
 main:
   - title: "About"
-    url: /
+    url: "https://abhinandan-bhatia.github.io/"
 
   - title: "Research"
-    url: /research/
-    
+    url: "https://abhinandan-bhatia.github.io/research/"
+
   - title: "CV"
-    url: /files/Abhinandan_CV.pdf
+    url: "https://abhinandan-bhatia.github.io/files/Abhinandan_CV.pdf"

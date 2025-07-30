@@ -22,10 +22,10 @@ repository               : "https://github.com/abhinandan-bhatia/abhinandan-bhat
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "https://abhinandan-bhatia.github.io/assets/images/profile.jpg"
   name             : "Abhinandan Bhatia"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Math Major, Physics Minor"
   location         : "Delhi-NCR"
   employer         : "Shiv Nadar Institution of Eminence"
   uri              : # URL

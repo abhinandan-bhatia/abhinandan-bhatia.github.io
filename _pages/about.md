@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Welcome! I’m Abhinandan Bhatia, an undergraduate student majoring in Mathematics with a minor in Physics at Shiv Nadar University (India). My academic interests lie at the intersection of abstract mathematical theory, stellar dynamics, and data-driven astrophysical modeling.
+Welcome! I’m Abhinandan Bhatia, an undergraduate student majoring in Mathematics with a minor in Physics at [Shiv Nadar Institution of Eminence](https://snu.edu.in/home/), Delhi-NCR, India. My academic interests lie at the intersection of abstract mathematical theory, stellar dynamics, and data-driven astrophysical modeling.
 
 Currently, I am working on a research project analyzing the extra-tidal regions of the globular cluster [NGC 7078](https://en.wikipedia.org/wiki/Messier_15) using Gaia EDR3 data under [Dr. Richa](https://www.mirandahouse.ac.in/academics/departments/physics/physics_faculty.php), Theoretical Astrophysicist, [Miranda House, University of Delhi](https://www.mirandahouse.ac.in/centres/dskc/summerworkshop25.php) as a continuation of our D.S Kothari Research Centre Project under the same. This work involves hybrid probabilistic modeling, including Gaussian Mixture Models and Kernel Density Estimation, as well as isochrone fitting and photometric sequence analysis.
 

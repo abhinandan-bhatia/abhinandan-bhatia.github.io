@@ -7,7 +7,7 @@ author_profile: true
 
 Welcome! I’m Abhinandan Bhatia, an undergraduate student majoring in Mathematics with a minor in Physics at [Shiv Nadar Institution of Eminence](https://snu.edu.in/home/), Delhi-NCR, India. My academic interests lie at the intersection of abstract mathematical theory, stellar dynamics, and data-driven astrophysical modeling.
 
-Currently, I am an incoming Research Intern at the Department of Economics, University of California, Santa Cruz, where I will be working under [Prof. Grace Gu](https://sites.google.com/site/graceweishigu/home) on wage stagnation and long-term labor market dynamics through empirical and data-driven analysis.
+This summer, I interned at the Department of Economics, University of California, Santa Cruz, under [Prof. Grace Gu](https://sites.google.com/site/graceweishigu/home), working on wage stagnation and long-term labor market dynamics through empirical and data-driven analysis. I will also be a co-author on Prof. Gu’s forthcoming publication.
 
 My work reflects a broader interest in approaching complex problems through multiple lenses, bringing together ideas from mathematics, physics, and economics to understand structures and systems across domains.
 

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Welcome! I’m Abhinandan Bhatia, an undergraduate student majoring in Mathematics with a minor in Economics at [Shiv Nadar Institution of Eminence](https://snu.edu.in/home/), Delhi-NCR, India. My academic interests lie at the intersection of abstract mathematical theory, stellar dynamics, and data-driven astrophysical modeling.
+Welcome! I’m Abhinandan Bhatia, an undergraduate student majoring in Mathematics with a minor in Economics at [Shiv Nadar Institution of Eminence](https://snu.edu.in/home/), Delhi-NCR, India. My academic interests center on mathematics, physics, and computation, with particular interests in mathematical physics, stellar dynamics, and data-driven modeling of physical systems.
 
 This summer, I interned at the Department of Economics, University of California, Santa Cruz, under [Prof. Grace Gu](https://sites.google.com/site/graceweishigu/home), contributing to research on foreign direct investment in the United States and long-run labor market dynamics through empirical and data-driven analysis. I will also be a co-author on Prof. Gu’s forthcoming publication.
 

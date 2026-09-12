@@ -12,9 +12,9 @@ You can download my complete CV [here (PDF)](/files/Abhinandan_CV.pdf).
 ## Education
 
 **Shiv Nadar Institution of Eminence, Delhi NCR**  
-*B.Sc. (Research) in Mathematics, Minor in Physics*  
+*B.S. Mathematics, Economics Minor*  
 **2024–2027 (Expected)**  
-- CGPA: 8.90 (SGPA: 9.25 in Sem I, 8.67 in Sem II)  
+- CGPA: 8.56/10  
 - University Dean’s List Award (Monsoon Semester 2024)  
 - Highest grades in all core math courses  
 
@@ -28,13 +28,21 @@ Theoretical Mathematics · Computational Astrophysics · Stellar Dynamics · Sta
 ## Research Experience
 
 **Research Intern**  
+*University of California, Santa Cruz (UCSC), Department of Economics*  
+**June–August 2026**  
+- Researched foreign direct investment in the United States and long-run labor market dynamics under Prof. Grace Gu.  
+- Curated, cleaned, merged, and analyzed economic and administrative datasets using econometric methods.  
+- Conducted literature review and empirical analysis of wages, income, productivity, and employment.  
+- Contributed as a co-author to a forthcoming paper.  
+
+**Research Intern**  
 *D.S. Kothari Centre for Research and Innovation in Science Education, Miranda House, University of Delhi*  
 **June–July 2025**  
 - Studied extra-tidal regions of globular cluster NGC 7078 using Gaia EDR3 astrometry.  
 - Developed a hybrid probabilistic model (2D GMM + KDE) for cluster–field separation.  
 - Applied Bayesian classification to compute membership probabilities.  
 - Built extinction-corrected CMDs; fitted PARSEC isochrones to identify cluster sequences.  
-- Presented findings in a research poster; authored final project report; paper in planning.  
+- Investigated extra-tidal stars and contributed to drafting the final research manuscript.  
 
 **Undergraduate Summer Program in Mathematics**  
 *IIIT–Delhi*  

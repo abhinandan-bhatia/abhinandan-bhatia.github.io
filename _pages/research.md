@@ -4,7 +4,21 @@ permalink: /research/
 layout: single
 ---
 
-### Ongoing Research Projects
+### Research Experience
+
+## Research Intern — University of California, Santa Cruz (UCSC)  
+**Department of Economics**  
+**June – August 2026**
+
+**Supervisor:** Prof. Grace Gu
+
+- Selected to contribute to research on foreign direct investment in the United States and long-run labor market dynamics.
+- Curated, cleaned, merged, and analyzed economic and administrative datasets using econometric methods.
+- Conducted literature review and empirical analysis of wages, income, productivity, and employment.
+- Investigated trends and structural drivers of wage growth, wage stagnation, and inequality.
+- Contributed to a forthcoming paper as a co-author.
+
+---
 
 ## Research Internship — D.S. Kothari Centre for Research and Innovation in Science Education  
 **Miranda House, University of Delhi**  
@@ -18,17 +32,15 @@ layout: single
 - Applied Bayesian classification to assign membership probabilities and model tidal structure.
 - Constructed and interpreted Color-Magnitude Diagrams (CMDs), applied extinction correction, and fitted PARSEC isochrones to identify cluster sequences.
 - Completed a literature survey on cluster dynamics and halo substructure.
-- Presented a formal research poster and authored the full project report under mentorship.
-- Collaborative paper preparation in progress.
+- Investigated the spatial distribution of extra-tidal stars and contributed to drafting the final research manuscript.
 
 ---
 
 ## Undergraduate Summer Program — IIIT-Delhi  
-**INT-Delhi Summer School in Mathematics**  
+**IIIT-Delhi Undergraduate Summer Program in Mathematics**  
 **June 2025**
 
 - Selected for the highly competitive national-level summer school (∼10% acceptance rate).
 - Attended advanced modules in Abstract Algebra, Real Analysis, Geometry, and Topology.
 - Engaged in intensive problem-solving, faculty research talks, and thematic lectures on entropy, information theory, spectral analysis, projective geometry, and random walks.
 - Gained deep exposure to proof writing, abstraction, and graduate-level mathematical thinking.
-
